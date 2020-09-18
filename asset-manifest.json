@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra24__6.2__crud/static/css/main.d7a59153.chunk.css",
+    "main.js": "/ra24__6.2__crud/static/js/main.2cbdb7df.chunk.js",
+    "main.js.map": "/ra24__6.2__crud/static/js/main.2cbdb7df.chunk.js.map",
+    "runtime-main.js": "/ra24__6.2__crud/static/js/runtime-main.060529d8.js",
+    "runtime-main.js.map": "/ra24__6.2__crud/static/js/runtime-main.060529d8.js.map",
+    "static/js/2.049647de.chunk.js": "/ra24__6.2__crud/static/js/2.049647de.chunk.js",
+    "static/js/2.049647de.chunk.js.map": "/ra24__6.2__crud/static/js/2.049647de.chunk.js.map",
+    "index.html": "/ra24__6.2__crud/index.html",
+    "precache-manifest.1f4f022b11f7b99d7431082e26685206.js": "/ra24__6.2__crud/precache-manifest.1f4f022b11f7b99d7431082e26685206.js",
+    "service-worker.js": "/ra24__6.2__crud/service-worker.js",
+    "static/css/main.d7a59153.chunk.css.map": "/ra24__6.2__crud/static/css/main.d7a59153.chunk.css.map",
+    "static/js/2.049647de.chunk.js.LICENSE.txt": "/ra24__6.2__crud/static/js/2.049647de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060529d8.js",
+    "static/js/2.049647de.chunk.js",
+    "static/css/main.d7a59153.chunk.css",
+    "static/js/main.2cbdb7df.chunk.js"
+  ]
+}
