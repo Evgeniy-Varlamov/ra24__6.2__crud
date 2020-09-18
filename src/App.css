@@ -1,0 +1,14 @@
+* {
+  box-sizing: content-box;
+}
+
+.material-icons {
+  cursor: pointer;
+  font-size: 20px;
+  width: 25px;
+  height: 25px;
+  border: 1px solid #000000;
+  text-align: center;
+  line-height: 25px;
+  border-radius: 50%;
+}

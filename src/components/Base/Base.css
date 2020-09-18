@@ -1,0 +1,9 @@
+.refresh {
+  color: #1ac51a;
+}
+
+.list-notes {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}

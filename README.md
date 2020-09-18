@@ -1,0 +1,2 @@
+[GithubPage](https://evgeniy-varlamov.github.io/ra24__6.2__crud/)
+[![Build status](https://ci.appveyor.com/api/projects/status/vqgkkegaagx4r3x6?svg=true)](https://ci.appveyor.com/project/Evgeniy-Varlamov/ra24-6-2-crud-jfxjm)  

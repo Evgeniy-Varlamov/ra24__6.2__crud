@@ -1,0 +1,19 @@
+.block-item-note {
+  position: relative;
+  width: 250px;
+  height: 100px;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.delete {
+  color: red;
+  position: absolute;
+  top: -13px;
+  right: -13px;
+  background-color: white;
+}
